@@ -1,0 +1,5 @@
+﻿<editor name="Trivident.DD4T.Editor" xmlns="http://www.sdltridion.com/2009/GUI/Configuration">
+  <installpath xmlns="http://www.sdltridion.com/2009/GUI/Configuration">D:\Tridion\extensions\trivident.dd4t.editor</installpath>
+  <configuration xmlns="http://www.sdltridion.com/2009/GUI/Configuration">Configuration\editor.config</configuration>
+  <vdir xmlns="http://www.sdltridion.com/2009/GUI/Configuration">DD4T</vdir>
+</editor>
